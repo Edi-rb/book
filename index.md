@@ -21,6 +21,21 @@ These sites were built with Bootstrap 4, javascript, sass, php, npm modules, I u
 
 - [Franquicias](https://micro-tec.com.mx/pagina/franquicias-microtec/)
 - [Microtec Rewards](https://www.microtecmx.com/rewards/)
+- [Credicel](https://www.credicel.mx)
 
-- [MBC](https://ws.freeandgreen.mx/mbc/)
+- [Sistema de pedidos](https://micro-tec.com.mx/pagina/Control_Pedidos/)
 - [servicios de paquetes](https://www.microtecmx.com/paqueteshome/)
+
+### Games 
+- Memory
+https://ideeolabs.com/desarrollo/edi/test-game/hwn/
+- Squirrel bloqs
+https://whimsical-marzipan-737fbc.netlify.app
+- Space jumpy
+-- menu
+https://ideeolabs.com/desarrollo/edi/test-game/jumpy-2/
+-- instrucctions
+https://ideeolabs.com/desarrollo/edi/test-game/jumpy-3/
+- Santa's gifts
+https://ideeolabs.com/desarrollo/edi/test-game/sgg2/
+
