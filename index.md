@@ -26,7 +26,17 @@ These sites were built with Bootstrap 4, javascript, sass, php, npm modules, I u
 - [Sistema de pedidos](https://micro-tec.com.mx/pagina/Control_Pedidos/)
 - [servicios de paquetes](https://www.microtecmx.com/paqueteshome/)
 
+These are some sites developed, integrating manual animations and libraries.
+
+- [homepage prototype] (https://ideeolabs.com/desarrollo/edi/vrz/vrz-studio)
+- [Site Prototype with UI functionality] (https://ideeolabs.com/desarrollo/edi/crypt2cash.com/)
+- [Site Arkmy with UI functionality] (https://ideeolabs.com/desarrollo/edi/arkmy-site/)
+- [Site with several menus] (https://ideeolabs.com/desarrollo/edi/bancow-site/)
+
 ### Games 
+
+Here are some proposals for web games
+
 - Memory
 https://ideeolabs.com/desarrollo/edi/test-game/hwn/
 - Squirrel bloqs
@@ -34,8 +44,8 @@ https://whimsical-marzipan-737fbc.netlify.app
 - Space jumpy
 -- menu
 https://ideeolabs.com/desarrollo/edi/test-game/jumpy-2/
--- instrucctions
-https://ideeolabs.com/desarrollo/edi/test-game/jumpy-3/
+
 - Santa's gifts
 https://ideeolabs.com/desarrollo/edi/test-game/sgg2/
+
 
